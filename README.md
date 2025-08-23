@@ -120,8 +120,7 @@ Contains columns:
 black-scholes/
 ├── main.py              # Main application
 ├── README.md            # This file
-├── spy_08_16_2025.csv   # Example output file
-└── open_08_16_2025.csv  # Example output file
+├── spy_08_16_2025.csv   # Example output filef
 ```
 
 ## Key Functions
